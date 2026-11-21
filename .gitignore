@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+out/
+run1.png
+crop_*.png
+small300.png
